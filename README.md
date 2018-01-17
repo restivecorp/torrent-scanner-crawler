@@ -1,5 +1,5 @@
 # Torrent Scanner Crawler
-PHP scraping to search torrents. Optimized for DivxTotal
+PHP crwaler/scraping/parser to search and download torrents. Optimized for DivxTotal
 
 ## What is?
 Allows the following actions
