@@ -1,5 +1,5 @@
-# TorrentScannerET
-PHP scraping to search torrents
+# Torrent Scanner Crawler
+PHP scraping to search torrents. Optimized for DivxTotal
 
 ## What is?
 Allows the following actions
@@ -27,12 +27,12 @@ Edit this funtions to set correct paths in 'tsc/common.php' file:
 ```
 	$ cd /var/www/tsc/db
 	mv torrent.db.empty torrent.db
-	
+
 	sudo mkdir /var/ts
 	sudo mv torrent.db /var/ts/torrent.db
 	sudo chmod 777 /var/ts/
 	sudo chmod 777 /var/ts/*
-```	
+```
 
 For automatic dowloads yo can configure the script into cron trask.
 
