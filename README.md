@@ -8,7 +8,9 @@ Allows the following actions
  - Monitorice TV Serie and download when a new episode is available
 
 ## Required
- * curl php7.0 php-fpm php-curl php-dom php-xml sqlite3 php-sqlite3
+ * curl
+ * sqlite3
+ * php7.0 php-fpm php-curl php-dom php-xml php-sqlite3
 
 ## Install
 ```
